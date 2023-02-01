@@ -12,4 +12,4 @@ EJS
 The Web App is Deployed on Heroku.
 
 URL of the deployed website:
-https://young-crag-32848.herokuapp.com/
+https://magnificent-ruby-rabbit.cyclic.app
